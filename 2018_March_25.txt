@@ -1,0 +1,6 @@
+Completed Insight Maker tutorials on Disease Dyamics and Predator-Prey Interactions
+Ran Austin's simulation following instructions
+	"Running the simulation" was structured well and matched the diagrams/ran 
+simulation
+	"Process behind simulation" requires more information
+Completed software carpentry lessons for github
