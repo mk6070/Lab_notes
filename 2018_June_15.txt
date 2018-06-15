@@ -1,0 +1,25 @@
+Read manual on AlphaSim - overall the manual was very indepth and helpful in 
+explaining each part of the program. I will come up with more questions as I work with 
+the program, for now I have my questions listed below.  
+Contacted Michael Suggs about how Alphasims is updated on Stampede along with 
+installing and test functioning. Our schedules did not coincide this week, especially 
+as Michael was sick while I was free during the week. However we will be meeting over 
+the weekend or next week to complete this task, if our schedules do not coincide again 
+Michael will be making a typed out instruction sheet. 
+
+Questions:
+
+Will I be running simulations using internal pedigrees or external? If external where 
+will the data be coming from and how do I create a pedigree text file from it?
+
+In the flexibility section of code I am still a little confused on the Merge 
+operation, specifically what they are used for and how the coding for them works.
+
+I have not come across the term double haploids before this and was wondering if I 
+could get some clarification on their importance to plant breeding.
+
+Curious as to how you know what exact numerical variables to input into the program, 
+is it typically more trial and error? 
+
+When I'm running my simulations what criteria will I be looking for? 
+
