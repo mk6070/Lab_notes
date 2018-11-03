@@ -1,0 +1,6 @@
+Completed lesson 2 of DataCamp
+
+Set up ReadtheDocs account 
+	connected the account with github
+	had a few issues downloading the necessary components to run the documents correctly. Ability to download pip, package manager, and the mkdocs packaged occurred when able to talk through the steps with someone who knew about computer science/coding. 
+	will be working on multiple table of contents and test their efficiency on individuals this upcoming week.
