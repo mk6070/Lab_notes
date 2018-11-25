@@ -1,0 +1,3 @@
+Completed first set of R classes and began intermediate classes
+Added the table of contents to the .yml file for the EnviroTyping Model
+Met with Charles to recieve insight on resume and linkedIn building
