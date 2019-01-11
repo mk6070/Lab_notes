@@ -1,0 +1,14 @@
+Began working through the tutorials on the envirotyping readthedocs
+	Was unable to login to stampede2 and was delayed starting the tutorials
+		Before contacting Austin or tech support I spent a few hours trying to research possiblites as to why it wouldn't work, through this I learned about not only stampede but lone star 5, XSEDE and how to set up a puTTY
+	Contacted both Austin and tech support and am currently working with tech support to resolve issues denying me permission to access stampede2
+Worked through tutorials on while loops and for loops (R)
+
+
+Most interesting problem/question this week: Not being able to login to stampede and having continuing issues caused me to spend hours at first trying to figure out why it wasn't working before I contact anyone for tech support.
+ 	Through this time spent trying to figure out the issue I was able to learn a lot about the services TACC offers and the different servers. One website I went to suggested setting up a puTTY and I did try that as well. If I had just gone to Austin right away I wouldn't have learned the extra things I did from researching on my own.
+ 	I think the most interesting thing this week was learning more than I needed to about TACC and about other ways of connecting to it if needed in future research that I wouldn't have learned if I had gone for help straight away. 
+
+Read more about/design
+	I have started seriously looking into graduate schools and have found a program that I think I would very much enjoy. Oregon state university offers a Masters degree in horticulture with a concentration in plant genetics and breeding. 
+	This concentration also covers bioinformatics. To better prepare myself for the Masters program I would like to start reading more on how to run a data analysis and how to interpret it. 
