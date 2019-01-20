@@ -1,0 +1,16 @@
+Completed R coursing on using functions and writing my own functions 
+	-learned necessary syntax to create an argument and body for a specific purpose 
+
+Contacted Austin to go over the EnviroTyping tutorials and high performance computing
+
+Read over the readthedocs page on EnviroTyping to create a spot for the InsightMaker Tutorial
+	-files for the Envirotyping Model page were updated to show the changes that would be made to the original EnviroTyping page
+		-files can be found in the 'docs' folder 
+	-the tutorial would occur placed in the Tutorials heading after the 'Reminders and Useful Commands' 
+
+Continued to look for Plant Breeding programs at Universities
+	-looked at Michigan State's program for Plant Breeding, Genetics, and Biotechnology
+	-looked at NC State's program in Crop Science 
+Signed up for a student membership for the National Association of Plant Breeders (NAPB)
+	
+	
