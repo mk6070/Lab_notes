@@ -1,0 +1,6 @@
+Read through introductory texts and basic commands for 'Atom' 
+Cloned the EnivroTyping repository to my laptop and uploaded into my Atom account 
+Made grammar and spelling corrections to: 'hpc.md', 'reminders.md', 'benchmark.md'
+
+Ran through all tutorials on the EniviroTyping readthedocs 
+	completed tutorials and gave notes on unworking sections and needed modifications to Austin 
