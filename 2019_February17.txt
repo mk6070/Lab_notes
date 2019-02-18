@@ -1,0 +1,4 @@
+Read through the Atom manual 
+
+Went through EnviroTyping documentation and made grammar and spelling corrections 
+	-still need to push edits to github account 
