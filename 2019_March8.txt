@@ -1,0 +1,19 @@
+1. Completed edits on Banks documents 
+	Grammar and spelling edits
+	Documentation in "Tutorials" including: "github.md", "hpc_setup.md", and "hpc_use.md"
+	Staged the changes and commited them, used the grammarspelling.edits branch
+
+2. Completed outline for the NPBA conference scholarship 
+	will finish up the first draft over the weekend and then make edits and complete it by the 15th 
+
+3. Spent 5-10 minutes on LinkedIn page 
+	Updated experience 
+	Updated Education 
+	Added photo
+
+4. Was not able to find a meeting time with Austin
+	will be doing so over Spring Break as my pull to the repository did not work on Atom 
+
+5. Completed R lessons on functions and uploading/using packages
+
+6. Looked into NC States Sweet Potato/Potato breeding program. They currently have an opening for a Field/Research Technician and it seems like a job I would like to pursue after I graduate in the Fall. 
