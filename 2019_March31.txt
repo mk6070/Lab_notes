@@ -1,0 +1,10 @@
+Completed R tutorials on
+	lapply and sapply, vapply 
+Completed and submitted scholarship for plant breeding conference 
+Made spelling/grammar edits to all documents on the EnviroTyping page and commited
+
+
+Next two week to do:
+-take all documentation on the simulation and go from rough draft to first draft and then provide it to friends in varying fields to recieve their input and level of understanding/if the tutorial was clear
+-complete 6 R tutorials
+-continue to research graduate school programs and jobs/internships in plant breeding
