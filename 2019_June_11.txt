@@ -1,0 +1,13 @@
+Completed:
+-downloaded T3 oat data that had long, lat, plant date, harvest date and location. 
+-loaded the data into RStudio
+-contacted Clayton about the weather data(it is not currently available) 
+-completed lessons in R and python 
+
+To do: 
+-add in the weather data whenever Clayton says it is ready 
+-find and add in genotypes for the trail names 
+-look at data and find a way to visualize and cluster the data 
+-complete more lessons in both R and python 
+-attending an information session at NC State for their masters in data analytics (Friday June 14th, 2019)
+ 
