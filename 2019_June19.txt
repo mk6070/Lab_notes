@@ -1,0 +1,12 @@
+Working on:
+-lessons in R and Python
+	-R course in correlation and regression
+-take Statistics class 
+	-correlation and regression 
+	-overview of stats 
+-helping Banks edit R code
+	-working towards getting four graphs per page over multiple pages
+
+Completed:
+-went to NC State to talk with professors and admissions counselors on their Master of Data Analytics
+
